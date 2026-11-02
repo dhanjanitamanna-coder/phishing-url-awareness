@@ -13,7 +13,6 @@
 | 4 | 5 or more hostname segments warning | Hostname segments warning | PASS |
 | 5 | Punycode warning | Punycode warning | PASS |
 
-
 ## Notes
 - All five workbook sample URLs were tested.
 - The program does not open or visit any URL.
